@@ -1,8 +1,8 @@
-# CAS.ai Updated Jan 1, 2026
+# CAS.ai Updated Jan 12, 2026
 OwnerDomain=cas.ai
 cas.ai, 922e6092, DIRECT
 #=== GoogleAds Jul 25, 2025
-google.com, pub-1022958838828662, DIRECT, f08c47fec0942fa0
+google.com, pub-1022958838828668, DIRECT, f08c47fec0942fa0
 google.com, pub-2418115348772836, DIRECT, f08c47fec0942fa0
 google.com, pub-2532668741646097, DIRECT, f08c47fec0942fa0
 google.com, pub-3319012248402666, DIRECT, f08c47fec0942fa0
